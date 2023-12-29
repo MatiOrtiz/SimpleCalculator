@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=Clase\ de\ la\ l\u00F3gica\ que\ realiza\ operaciones\ matem\u00E1ticas\ simples\ sobre\r\nnumeros\ enteros\ (no\ negativos)
+comment1.params=
+comment1.target=Calculadora()
+comment1.text=Crea\ una\ instancia\ de\ la\ clase\ calculadora
+comment2.params=x\ y
+comment2.target=int\ suma(int,\ int)
+comment2.text=Retorna\ la\ suma\ de\ los\ enteros\ x\ e\ y
+comment3.params=x\ y
+comment3.target=int\ producto(int,\ int)
+comment3.text=Retorna\ el\ producto\ de\ los\ enteros\ x\ e\ y
+comment4.params=x\ y
+comment4.target=int\ resta(int,\ int)
+comment4.text=Retorna\ la\ resta\ de\ los\ enteros\ x\ e\ y
+comment5.params=x\ y
+comment5.target=int\ cociente(int,\ int)
+comment5.text=Retorna\ la\ divisi\u00F3n\ de\ los\ enteros\ x\ e\ y.\ Retorna\ -1\ en\ caso\r\nde\ que\ y\ sea\ 0
+numComments=6
